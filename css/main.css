@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.priority-high {
+    color: red;
+}
+
+.priority-normal {
+    color: green;
+}
+
+.priority-low {
+    color: blue;
+}
